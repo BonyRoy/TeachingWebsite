@@ -1,3 +1,22 @@
+##
+
+1. DOWNLOAD NodeJs—> https://nodejs.org/en/download
+2. GitHub —> https://github.com/BonyRoy/TeachingWebsite
+3. npx create-react-app creditx
+4. npm install axios
+5. npm install bootstrap
+6. npm install pymysql
+7. npm install react-bootstrap
+8. npm install react-router-dom
+9. npm install react-slick
+10. npm install redirect
+11. npm install yarn
+
+##
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
